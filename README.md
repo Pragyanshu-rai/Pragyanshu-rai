@@ -1,8 +1,8 @@
 ![](https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/banner.png)
 
-### Hi there I'm Pragyanshu 👋
+## Hi there I'm Pragyanshu 👋
 
-## I'm a student and a Developer!! 
+### I'm a student and a Developer!! 
 
 I like to design and develop applications and solve challenges, and I am always ready to learn from others and help others. I believe Learning is like an adventure in which you are sure to get the treasure.
 I like to code in python, java, c++, javascript, and c.
@@ -15,7 +15,7 @@ This year, I want to contribute more to open source projects and help the commun
 <br />
 
 - 🔭 I just created my first web application [CMS]!
-- 🌱 I’m currently learning React.js  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🌱 I’m currently learning React.js  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch.
 
