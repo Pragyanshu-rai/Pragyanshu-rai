@@ -12,7 +12,6 @@ This year, I want to contribute more to open source projects and help the commun
 
 <br />
 ---
-<br />
 
 - 🔭 I just created my first web application [CMS]!
 - 🌱 I’m currently learning React.js  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -20,8 +19,8 @@ This year, I want to contribute more to open source projects and help the commun
 - ⚡ Fun fact: I love to sketch.
 
 <br />
+
 ---
-<br />
 
 ### Languages and Tools:
 
