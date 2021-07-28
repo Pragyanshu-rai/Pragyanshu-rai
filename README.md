@@ -6,7 +6,7 @@
 
 I like to design, develop applications and solve challenges. I am always ready to learn from others and help others. I believe Learning is like an adventure in which you are sure to get the treasure.
 I like to code in python, java, c++, javascript, and c.
-The feeling of joy that comes after developing and application is something that makes my day. But every time I complete a project, it motivates me to start a new one.
+The feeling of joy that comes after developing an application is something that makes my day. But every time I complete a project, it motivates me to start a new one.
 
 This year, I want to contribute more to open source projects and help the community that has always helped me. 
 
