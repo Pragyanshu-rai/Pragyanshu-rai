@@ -11,6 +11,7 @@ The feeling of joy that comes after developing and application is something that
 This year, I want to contribute more to open source projects and help the community that has always helped me. 
 
 <br />
+
 ---
 
 - 🔭 I just created my first web application [CMS]!
@@ -49,6 +50,5 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 <br />
 <br />
 
----
 [CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
