@@ -1,25 +1,27 @@
-### Hi there I'm Pragyanshu 👋
+![](https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/banner.png)
 
-## I'm a student and a Developer!! 
+## Hi there I'm Pragyanshu 👋
 
-I like to design and develop applications and solve challenges, and I am always ready to learn from others and help others. I believe Learning is like an adventure in which you are sure to get the treasure.
+### I'm a student and a Developer!! 
+
+I like to design, develop applications and solve challenges. I am always ready to learn from others and help others. I believe Learning is like an adventure in which you are sure to get the treasure.
 I like to code in python, java, c++, javascript, and c.
-The feeling of joy that comes after developing and application is something that makes my day. But every time I complete a project, it motivates me to start a new one.
+The feeling of joy that comes after developing an application is something that makes my day. But every time I complete a project, it motivates me to start a new one.
 
 This year, I want to contribute more to open source projects and help the community that has always helped me. 
 
 <br />
+
 ---
-<br />
 
 - 🔭 I just created my first web application [CMS]!
-- 🌱 I’m currently learning React.js  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning React.js  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch.
 
 <br />
+
 ---
-<br />
 
 ### Languages and Tools:
 
@@ -33,17 +35,20 @@ This year, I want to contribute more to open source projects and help the commun
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Shell scripting" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] -->
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.pngg" />
+<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GIMP" width="26px" 
+src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/gimp.png?raw=true" />
+<img align="left" alt="Inkscape" width="26px" 
+src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?raw=true" />
 <img align="left" alt="postman" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <br />
 <br />
 
----
 [CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
