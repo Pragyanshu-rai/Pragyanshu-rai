@@ -1,4 +1,6 @@
-![](https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/banner.png)
+<!-- ![](https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/banner.png) -->
+![](https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/pragyanshu_casual_vector_shade_ol_cover_no_ol.png)
+
 
 ## Hi there I'm Pragyanshu 👋
 
