@@ -19,7 +19,8 @@ This year, I want to contribute more to open source projects and help the commun
 - 🔭 I just created my first web application [CMS]!
 - 🌱 I’m currently learning React.js  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sketch.
+- 👯 Checkout my [Resume]!
+- ⚡ Fun fact: I love to sketch and cook.
 
 <br />
 
@@ -54,3 +55,4 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 
 [CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
+[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu_Rai_Resume.pdf 
