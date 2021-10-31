@@ -53,6 +53,8 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 <br />
 <br />
 
+<!-- reference links -->
+
 [CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
 [Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu_Rai_Resume.pdf 
