@@ -57,4 +57,5 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 
 [CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
-[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu_Rai_Resume.pdf 
+[Old-Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu_Rai_Resume.pdf 
+[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu%20Rai%20Resume.pdf
