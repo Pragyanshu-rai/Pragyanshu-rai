@@ -4,24 +4,21 @@
 
 ## Hi there, I'm Pragyanshu 👋
 
-### I'm a Developer!! 
+### I'm a Developer who loves to build, design, and solve!
 
-I like to design, develop applications, and solve challenges. I am always ready to learn from others and help others. Learning is like an adventure in which you will surely get the treasure.
-I like to code in Python, Java, C++, JavaScript, and C.
-The feeling of joy that comes after developing an application is something that makes my day. But every time I complete a project, it motivates me to start a new one.
+I enjoy designing and developing applications, tackling real-world challenges, and learning continuously. I’m passionate about contributing to open source and giving back to the community that helped me grow.
 
-I want to contribute more to open-source projects and help the community that has always helped me. 
+🚀 When I complete a project, it fuels me to start a new one!
 
 <br />
 
 ---
 
-- 🔭 This is my first web application [CMS-repository]!
-<!--
-- 🌱 I’m currently learning React.js  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
--->
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 👯 Check out my [Resume]!
+### ✨ About Me
+
+- 🔭 This is my first web application → [CMS-repository]!
+- 🥅 2025 Goal: Contribute more to Open Source projects
+- 📄 Check out my [Resume]!
 - ⚡ Fun fact: I love to sketch and cook.
 
 <br />
@@ -30,8 +27,6 @@ I want to contribute more to open-source projects and help the community that ha
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"  />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,8 +34,6 @@ I want to contribute more to open-source projects and help the community that ha
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Shell scripting" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] -->
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
@@ -58,7 +51,5 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 
 <!-- reference links -->
 
-[CMS]: https://cms-wa.herokuapp.com/
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
-[Old-Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu_Rai_Resume.pdf 
-[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu%20Rai%20Resume.pdf
+[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/PragyanshuRaiResume.pdf
