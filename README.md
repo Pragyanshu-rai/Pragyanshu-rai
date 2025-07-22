@@ -16,9 +16,10 @@ I enjoy designing and developing applications, tackling real-world challenges, a
 
 ### ✨ About Me
 
+- 🧠 This is my [Portfolio]!
+- 📄 Check out my [Resume]!
 - 🔭 This is my first web application → [CMS-repository]!
 - 🥅 2025 Goal: Contribute more to Open Source projects
-- 📄 Check out my [Resume]!
 - ⚡ Fun fact: I love to sketch and cook.
 
 <br />
@@ -53,3 +54,4 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
 [Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/PragyanshuRaiResume.pdf
+[Portfolio]: https://pragyanshu-rai.github.io/#projects
