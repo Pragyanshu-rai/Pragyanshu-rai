@@ -54,4 +54,4 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
 [Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/PragyanshuRaiResume.pdf
-[Portfolio]: https://pragyanshu-rai.github.io/#projects
+[Portfolio]: https://pragyanshu-rai.github.io
