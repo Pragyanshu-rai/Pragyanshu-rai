@@ -53,5 +53,5 @@ src="https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/inkscape.png?r
 <!-- reference links -->
 
 [CMS-repository]: https://github.com/Pragyanshu-rai/CMS#readme
-[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/PragyanshuRaiResume.pdf
+[Resume]: https://github.com/Pragyanshu-rai/Pragyanshu-rai/blob/master/Pragyanshu-Rai-Java-Developer-Resume.pdf
 [Portfolio]: https://pragyanshu-rai.github.io/portfolio/
